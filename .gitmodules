@@ -1,0 +1,6 @@
+[submodule "sites/About"]
+	path = sites/About
+	url = https://github.com/KentVejrupMadsen/About.git
+[submodule "sites/Portfolio"]
+	path = sites/Portfolio
+	url = https://github.com/KentVejrupMadsen/Portfolio.git
